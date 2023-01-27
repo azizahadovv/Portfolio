@@ -1,0 +1,84 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.heder1 {
+  width: 1470px;
+  margin: 0 auto;
+}
+.logotips {
+  height: 700px;
+  background-image: url(./Figma/imags/bacground.JPG);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.heder {
+  width: 100%;
+  height: 75px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.VebSayts {
+  width: 43%;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: space-around;
+}
+.Fig-Body {
+  display: flex;
+  gap: 20px;
+  justify-content: space-around;
+}
+.left {
+  width: 40%;
+  height: 70%;
+  margin: 50px 0 60px;
+  background: #e7e9eb;
+}
+.iFig {
+  font-size: 19px;
+  font-family: serif;
+}
+.right {
+  width: 33%;
+  margin: 290px 0 0 0;
+  background: #e7e9eb;
+}
+.iFig2 {
+  font-size: 19px;
+  font-family: Times New Roman, Times, serif;
+}
+
+/* Log In section  */
+
+.LogIn {
+  margin: 80px auto;
+  width: 550px;
+}
+.btnEnd {
+  width: 95px;
+  margin-left: 420px;
+}
+
+/* Sign Up section */
+
+.card1 {
+  width: 650px;
+  min-height: 450px;
+  margin: 50px auto;
+}
+
+.forma {
+  display: flex;
+  flex-wrap: wrap;
+  gap: px;
+  padding: 10px;
+}
+.btnEnd1 {
+  width: 105px;
+  height: 40px;
+  margin-left: 520px;
+}
